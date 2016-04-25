@@ -1,0 +1,6 @@
+<node>
+    <someone  status="captain">Alex</someone>
+    <someone id="02">Amanda</someone>
+    <someone id="03" status="captain">Bob</someone>
+    <someone id="04">Costa</someone>
+</node>
